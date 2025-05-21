@@ -1,0 +1,4 @@
+"Target Name","ChEMBL-ID","UniProt ID","PDB Visualization","TTD ID","Min Activity","Assay type"
+"Nicotinate phosphoribosyltransferase","CHEMBL4523354","Q6XQN6","4YUB","Not Available","0.5 nm","Ki"
+"Bloom syndrome protein","CHEMBL1293237","P54132","4O3M","Not Available","2.8 nm","Potency"
+"Thyroid stimulating hormone receptor","CHEMBL1963","P16473","2XWT","T60606","50.1 nm","Potency"
