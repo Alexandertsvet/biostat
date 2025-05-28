@@ -1,0 +1,1 @@
+samtools view -h ./data/file.bam | less -S
